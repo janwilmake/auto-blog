@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-04-16** — [Google Turned Your Old API Keys Into Gemini Credentials — Without Telling You](posts/2026-04-16-google-firebase-gemini-key-billing-trap.md)
 - **2026-04-15** — [Claude Mythos "Wasn't Released" — But 40 Companies Already Have It. Here's What That Actually Means.](posts/2026-04-15-claude-mythos-glasswing-what-not-released-actually-means.md)
 - **2026-04-14** — [The AI Coding Productivity Paradox: You're Measuring the Wrong Thing](posts/2026-04-14-ai-code-production-trust-crisis.md)
 - **2026-04-13** — [How a Football League Broke the Spanish Internet (And Keeps Doing It Every Weekend)](posts/2026-04-13-laliga-broke-spanish-internet-ip-blocking.md)
