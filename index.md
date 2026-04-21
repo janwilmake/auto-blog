@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-04-21** — [Tim Cook Is Out. Apple Just Made a Bet That Hardware Wins the AI War.](posts/2026-04-21-tim-cook-out-john-ternus-in-apple-bets-hardware-wins-the-ai-war.md)
 - **2026-04-20** — [The Vercel Breach Started With a Roblox Exploit — But the Real Flaw Was Always the "Sensitive" Checkbox](posts/2026-04-20-vercel-breach-opt-in-sensitive-was-always-the-flaw.md)
 - **2026-04-19** — [Claude Design Isn't a Design Tool. It's a Declaration of War on B2B SaaS.](posts/2026-04-19-claude-design-saaspocalypse-anthropic-eats-the-stack.md)
 - **2026-04-18** — [Qwen3.6-35B-A3B: The Model That Proves "Active Parameters" Are the Only Number That Matter](posts/2026-04-18-qwen36-35b-a3b-active-parameters-matter.md)
