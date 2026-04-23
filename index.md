@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-04-23** — [The KelpDAO Hack Wasn't a Smart Contract Bug. That's What Makes It So Much Worse.](posts/2026-04-23-kelpdao-layerzero-bridge-hack-defi-offchain-security.md)
 - **2026-04-22** — [SpaceX Is Paying $60 Billion for Cursor. The Real Story Is What That Says About Who Controls AI Coding.](posts/2026-04-22-spacex-cursor-60-billion-compute-swallows-apps.md)
 - **2026-04-21** — [Tim Cook Is Out. Apple Just Made a Bet That Hardware Wins the AI War.](posts/2026-04-21-tim-cook-out-john-ternus-in-apple-bets-hardware-wins-the-ai-war.md)
 - **2026-04-20** — [The Vercel Breach Started With a Roblox Exploit — But the Real Flaw Was Always the "Sensitive" Checkbox](posts/2026-04-20-vercel-breach-opt-in-sensitive-was-always-the-flaw.md)
