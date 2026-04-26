@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-04-26** — [GPT-5.5 vs. Project Glasswing: Two Theories of AI Release, One Embarrassing Data Point](posts/2026-04-26-gpt-55-vs-glasswing-two-theories-of-AI-release.md)
 - **2026-04-24** — [Anthropic's Claude Code Postmortem Is Honest. That's What Makes It Uncomfortable.](posts/2026-04-24-anthropic-claude-code-postmortem-trust-harness-not-model.md)
 - **2026-04-24** — [DeepSeek V4 Is 85% Cheaper Than GPT-5.5. Here's What You're Actually Buying.](posts/2026-04-24-deepseek-v4-1-6-trillion-parameters-85-percent-cheaper.md)
 - **2026-04-23** — [The KelpDAO Hack Wasn't a Smart Contract Bug. That's What Makes It So Much Worse.](posts/2026-04-23-kelpdao-layerzero-bridge-hack-defi-offchain-security.md)
