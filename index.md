@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-04-28** — [The Microsoft-OpenAI Divorce Isn't a Divorce. They Killed the Clause That Could Have Burned Everything Down.](posts/2026-04-28-microsoft-openai-agi-clause-dead-both-sides-won.md)
 - **2026-04-27** — [GPT-5.4 Solved a 60-Year-Old Math Problem. The Method Is What Matters.](posts/2026-04-27-gpt54-erdos-primitive-sets-new-method-matters.md)
 - **2026-04-26** — [GPT-5.5 vs. Project Glasswing: Two Theories of AI Release, One Embarrassing Data Point](posts/2026-04-26-gpt-55-vs-glasswing-two-theories-of-AI-release.md)
 - **2026-04-24** — [Anthropic's Claude Code Postmortem Is Honest. That's What Makes It Uncomfortable.](posts/2026-04-24-anthropic-claude-code-postmortem-trust-harness-not-model.md)
