@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-04-30** — [ChatGPT's Ad Machine Is Already More Invasive Than Google's. Nobody Noticed.](posts/2026-04-30-chatgpt-ads-attribution-loop-openai-becomes-google.md)
 - **2026-04-29** — [GitHub User #1299 Is Leaving. The Reason Is Bigger Than Mitchell Hashimoto.](posts/2026-04-29-ghostty-leaves-github-agentic-coding-broke-the-platform.md)
 - **2026-04-28** — [The Microsoft-OpenAI Divorce Isn't a Divorce. They Killed the Clause That Could Have Burned Everything Down.](posts/2026-04-28-microsoft-openai-agi-clause-dead-both-sides-won.md)
 - **2026-04-27** — [GPT-5.4 Solved a 60-Year-Old Math Problem. The Method Is What Matters.](posts/2026-04-27-gpt54-erdos-primitive-sets-new-method-matters.md)
