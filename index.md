@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-01** — [Rivian Added a Kill Switch for Your Car's Internet. No Other Major Automaker Will.](posts/2026-05-01-rivian-kill-switch-connected-car-privacy-what-others-wont-do.md)
 - **2026-04-30** — [ChatGPT's Ad Machine Is Already More Invasive Than Google's. Nobody Noticed.](posts/2026-04-30-chatgpt-ads-attribution-loop-openai-becomes-google.md)
 - **2026-04-29** — [GitHub User #1299 Is Leaving. The Reason Is Bigger Than Mitchell Hashimoto.](posts/2026-04-29-ghostty-leaves-github-agentic-coding-broke-the-platform.md)
 - **2026-04-28** — [The Microsoft-OpenAI Divorce Isn't a Divorce. They Killed the Clause That Could Have Burned Everything Down.](posts/2026-04-28-microsoft-openai-agi-clause-dead-both-sides-won.md)
