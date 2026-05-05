@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-05** — [Bun Is Ditching Zig for Rust, and Claude Is Writing the Port. This Is More Than a Language Switch.](posts/2026-05-05-bun-ditches-zig-for-rust-anthropic-ai-rewrite.md)
 - **2026-05-04** — [VS Code's Hidden Copilot Co-Author Line: It Was Never About Attribution](posts/2026-05-04-vscode-copilot-coauthor-default-metrics-lie.md)
 - **2026-05-03** — [Apple Shipped a CLAUDE.md File to a Million iPhones. The Real Story Isn't the File — It's the Pipeline.](posts/2026-05-03-apple-claude-md-leak-build-pipeline-ai-secret.md)
 - **2026-05-02** — [Texas Instruments Just Made a $160 Device That Deliberately Can't Connect to the Internet. That's the Product.](posts/2026-05-02-ti-84-evo-deliberately-dumb-is-the-point.md)
