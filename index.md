@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-08** — [When the Expert Stops Reviewing the Code, That's When You Should Worry](posts/2026-05-08-simon-willison-vibe-coding-expert-problem.md)
 - **2026-05-07** — [Anthropic's $900 Billion Round Isn't a Company Valuation. It's a Compute Invoice.](posts/2026-05-07-anthropic-900-billion-series-h-compute-not-company.md)
 - **2026-05-06** — [Chrome's Silent 4 GB Gemini Nano Install Is Consent Theater, Not AI Delivery](posts/2026-05-06-chrome-gemini-nano-silent-install-consent-theater.md)
 - **2026-05-05** — [Bun Is Ditching Zig for Rust, and Claude Is Writing the Port. This Is More Than a Language Switch.](posts/2026-05-05-bun-ditches-zig-for-rust-anthropic-ai-rewrite.md)
