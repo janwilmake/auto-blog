@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-10** — [Bun's Rust Rewrite Just Passed 99.8% of Its Test Suite. In Six Days. Let's Talk About What That Actually Proves.](posts/2026-05-10-bun-rust-rewrite-99-percent-what-6-days-actually-proved.md)
 - **2026-05-09** — [Google Killed WEI in 2023. It Just Relaunched It as reCAPTCHA.](posts/2026-05-09-google-recaptcha-wei-back-door-play-integrity.md)
 - **2026-05-08** — [When the Expert Stops Reviewing the Code, That's When You Should Worry](posts/2026-05-08-simon-willison-vibe-coding-expert-problem.md)
 - **2026-05-07** — [Anthropic's $900 Billion Round Isn't a Company Valuation. It's a Compute Invoice.](posts/2026-05-07-anthropic-900-billion-series-h-compute-not-company.md)
