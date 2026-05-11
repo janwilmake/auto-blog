@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-11** — [The Internet Is Building a Hardware Tollbooth. Apple and Google Are the Only Booths.](posts/2026-05-11-hardware-attestation-internet-tollbooth-eu-apple-google.md)
 - **2026-05-10** — [Bun's Rust Rewrite Just Passed 99.8% of Its Test Suite. In Six Days. Let's Talk About What That Actually Proves.](posts/2026-05-10-bun-rust-rewrite-99-percent-what-6-days-actually-proved.md)
 - **2026-05-09** — [Google Killed WEI in 2023. It Just Relaunched It as reCAPTCHA.](posts/2026-05-09-google-recaptcha-wei-back-door-play-integrity.md)
 - **2026-05-08** — [When the Expert Stops Reviewing the Code, That's When You Should Worry](posts/2026-05-08-simon-willison-vibe-coding-expert-problem.md)
