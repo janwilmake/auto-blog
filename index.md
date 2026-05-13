@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-13** — [Bambu Lab Used AGPL Code to Build Its Printer Software. Now It's Threatening Developers Who Use That Same Code.](posts/2026-05-13-bambu-lab-agpl-orcaslicer-fork-streisand.md)
 - **2026-05-12** — [AI Writes Features, Not Architecture. One Developer Just Proved It Over 30 Weekends.](posts/2026-05-12-vibe-coding-god-object-architecture-is-the-last-moat.md)
 - **2026-05-11** — [The Internet Is Building a Hardware Tollbooth. Apple and Google Are the Only Booths.](posts/2026-05-11-hardware-attestation-internet-tollbooth-eu-apple-google.md)
 - **2026-05-10** — [Bun's Rust Rewrite Just Passed 99.8% of Its Test Suite. In Six Days. Let's Talk About What That Actually Proves.](posts/2026-05-10-bun-rust-rewrite-99-percent-what-6-days-actually-proved.md)
