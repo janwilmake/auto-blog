@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-15** — [Your CI Pipeline Is the Attack Surface: What the TanStack Hack Actually Proved](posts/2026-05-15-tanstack-mini-shai-hulud-ci-pipeline-is-the-attack-surface.md)
 - **2026-05-14** — [Google's Googlebook Is an Answer to a Question Nobody Was Asking](posts/2026-05-14-googlebook-chromebook-killer-question-nobody-asked.md)
 - **2026-05-13** — [Bambu Lab Used AGPL Code to Build Its Printer Software. Now It's Threatening Developers Who Use That Same Code.](posts/2026-05-13-bambu-lab-agpl-orcaslicer-fork-streisand.md)
 - **2026-05-12** — [AI Writes Features, Not Architecture. One Developer Just Proved It Over 30 Weekends.](posts/2026-05-12-vibe-coding-god-object-architecture-is-the-last-moat.md)
