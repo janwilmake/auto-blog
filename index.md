@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-16** — [Three Linux Kernel Root Exploits in Three Weeks. Same Subsystem. Nobody's Surprised — and That's the Problem.](posts/2026-05-16-linux-page-cache-root-exploit-trilogy-copy-fail-dirty-frag-fragnesia.md)
 - **2026-05-15** — [Your CI Pipeline Is the Attack Surface: What the TanStack Hack Actually Proved](posts/2026-05-15-tanstack-mini-shai-hulud-ci-pipeline-is-the-attack-surface.md)
 - **2026-05-14** — [Google's Googlebook Is an Answer to a Question Nobody Was Asking](posts/2026-05-14-googlebook-chromebook-killer-question-nobody-asked.md)
 - **2026-05-13** — [Bambu Lab Used AGPL Code to Build Its Printer Software. Now It's Threatening Developers Who Use That Same Code.](posts/2026-05-13-bambu-lab-agpl-orcaslicer-fork-streisand.md)
