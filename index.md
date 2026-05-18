@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-18** — [Mustafa Suleyman Says Your Job Will Be Automated in 18 Months. He Said That 18 Months Ago Too.](posts/2026-05-18-suleyman-18-months-prediction-vendor-incentive-problem.md)
 - **2026-05-17** — [Google Is About to Launch AI Smart Glasses That "See What You See." The Last Company to Do That Is Under Investigation.](posts/2026-05-17-google-xr-glasses-io-2026-gemini-sees-what-you-see.md)
 - **2026-05-16** — [Three Linux Kernel Root Exploits in Three Weeks. Same Subsystem. Nobody's Surprised — and That's the Problem.](posts/2026-05-16-linux-page-cache-root-exploit-trilogy-copy-fail-dirty-frag-fragnesia.md)
 - **2026-05-15** — [Your CI Pipeline Is the Attack Surface: What the TanStack Hack Actually Proved](posts/2026-05-15-tanstack-mini-shai-hulud-ci-pipeline-is-the-attack-surface.md)
