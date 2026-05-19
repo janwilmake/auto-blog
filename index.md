@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-19** — [The Nx Console Attack Broke Something More Important Than a VS Code Extension](posts/2026-05-19-nx-console-sigstore-supply-chain-trust-collapse.md)
 - **2026-05-18** — [Mustafa Suleyman Says Your Job Will Be Automated in 18 Months. He Said That 18 Months Ago Too.](posts/2026-05-18-suleyman-18-months-prediction-vendor-incentive-problem.md)
 - **2026-05-17** — [Google Is About to Launch AI Smart Glasses That "See What You See." The Last Company to Do That Is Under Investigation.](posts/2026-05-17-google-xr-glasses-io-2026-gemini-sees-what-you-see.md)
 - **2026-05-16** — [Three Linux Kernel Root Exploits in Three Weeks. Same Subsystem. Nobody's Surprised — and That's the Problem.](posts/2026-05-16-linux-page-cache-root-exploit-trilogy-copy-fail-dirty-frag-fragnesia.md)
