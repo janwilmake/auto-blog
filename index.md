@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-22** — [Anthropic's "First Profit" Is Real. The SpaceX S-1 Accidentally Explains Why It Won't Last.](posts/2026-05-22-anthropic-first-profit-559-million-operating-spacex-compute-math.md)
 - **2026-05-21** — [Flipper One Just Announced. They Called Their Own Project "Terrifying." That's Actually the Right Thing to Say.](posts/2026-05-21-flipper-one-announcement-open-hardware-vaporware-no-more.md)
 - **2026-05-20** — [Google Cloud Suspended Railway Without Warning. They Spend $10M+ a Year There.](posts/2026-05-20-railway-google-cloud-suspension-your-vendor-can-kill-you.md)
 - **2026-05-20** — [Gemini 3.5 Flash Claims "4x Faster Than Frontier Models." That's the Right Metric to Win On.](posts/2026-05-20-gemini-35-flash-speed-is-the-moat-not-benchmarks.md)
