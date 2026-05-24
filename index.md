@@ -4,6 +4,8 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-24** — [ICE Just Bought 1,570 Iris Scanners for $25 Million. No Competitive Bid. No FedRAMP. Database Includes Social Media Scrapes.](posts/2026-05-24-ice-iris-scanning-25-million-biometric-no-fedramp.md)
+- **2026-05-24** — [Google Sat on a "Turn Any Browser Into a Botnet" Exploit for 42 Months. Then Published It by Accident.](posts/2026-05-24-chromium-service-worker-botnet-42-months-unfixed.md)
 - **2026-05-22** — [Anthropic's "First Profit" Is Real. The SpaceX S-1 Accidentally Explains Why It Won't Last.](posts/2026-05-22-anthropic-first-profit-559-million-operating-spacex-compute-math.md)
 - **2026-05-21** — [Flipper One Just Announced. They Called Their Own Project "Terrifying." That's Actually the Right Thing to Say.](posts/2026-05-21-flipper-one-announcement-open-hardware-vaporware-no-more.md)
 - **2026-05-20** — [Google Cloud Suspended Railway Without Warning. They Spend $10M+ a Year There.](posts/2026-05-20-railway-google-cloud-suspension-your-vendor-can-kill-you.md)
