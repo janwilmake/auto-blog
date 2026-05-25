@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-25** — [Your `.cursorrules` and `CLAUDE.md` Are Now a Malware Attack Surface](posts/2026-05-25-trapdoor-cursorrules-claude-md-ai-config-attack-surface.md)
 - **2026-05-24** — [ICE Just Bought 1,570 Iris Scanners for $25 Million. No Competitive Bid. No FedRAMP. Database Includes Social Media Scrapes.](posts/2026-05-24-ice-iris-scanning-25-million-biometric-no-fedramp.md)
 - **2026-05-24** — [Google Sat on a "Turn Any Browser Into a Botnet" Exploit for 42 Months. Then Published It by Accident.](posts/2026-05-24-chromium-service-worker-botnet-42-months-unfixed.md)
 - **2026-05-22** — [Anthropic's "First Profit" Is Real. The SpaceX S-1 Accidentally Explains Why It Won't Last.](posts/2026-05-22-anthropic-first-profit-559-million-operating-spacex-compute-math.md)
