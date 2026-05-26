@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-26** — [GitHub Actions Has Gone Down 57 Times in a Year. Today Was Outage #58. This Is Not Bad Luck.](posts/2026-05-26-github-actions-authentication-failure-57-outages-ci-vendor-lock.md)
 - **2026-05-25** — [Your `.cursorrules` and `CLAUDE.md` Are Now a Malware Attack Surface](posts/2026-05-25-trapdoor-cursorrules-claude-md-ai-config-attack-surface.md)
 - **2026-05-24** — [ICE Just Bought 1,570 Iris Scanners for $25 Million. No Competitive Bid. No FedRAMP. Database Includes Social Media Scrapes.](posts/2026-05-24-ice-iris-scanning-25-million-biometric-no-fedramp.md)
 - **2026-05-24** — [Google Sat on a "Turn Any Browser Into a Botnet" Exploit for 42 Months. Then Published It by Accident.](posts/2026-05-24-chromium-service-worker-botnet-42-months-unfixed.md)
