@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-29** — [Someone Spent $500 Million on Claude in One Month. The Real Scandal Is That Everyone Knew This Was Coming.](posts/2026-05-29-500-million-claude-bill-agentic-ai-cost-governance.md)
 - **2026-05-28** — [Microsoft Owns the Platform Where Security Researchers Publish. The Nightmare-Eclipse Ban Just Proved Why That's a Problem.](posts/2026-05-28-microsoft-github-nightmare-eclipse-platform-power-security-research.md)
 - **2026-05-27** — [Google Search Just Broke the Word "Disregard." 30% More People Are Using DuckDuckGo This Week. These Are the Same Story.](posts/2026-05-27-google-search-ai-mode-backlash-duckduckgo-tired-of-ai.md)
 - **2026-05-26** — [GitHub Actions Has Gone Down 57 Times in a Year. Today Was Outage #58. This Is Not Bad Luck.](posts/2026-05-26-github-actions-authentication-failure-57-outages-ci-vendor-lock.md)
