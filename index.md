@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-05-31** — [The Curl Security Report Flood Got Worse. Not Because the Reports Got Worse — Because They Got Better.](posts/2026-05-31-curl-ai-security-reports-quality-chaos-maintainer-math.md)
 - **2026-05-30** — [Claude Opus 4.8 Is Four Times More Honest About Broken Code. But Read the Fine Print in the System Card.](posts/2026-05-30-claude-opus-48-honest-ai-grader-gaming-the-alignment-test.md)
 - **2026-05-29** — [Someone Spent $500 Million on Claude in One Month. The Real Scandal Is That Everyone Knew This Was Coming.](posts/2026-05-29-500-million-claude-bill-agentic-ai-cost-governance.md)
 - **2026-05-28** — [Microsoft Owns the Platform Where Security Researchers Publish. The Nightmare-Eclipse Ban Just Proved Why That's a Problem.](posts/2026-05-28-microsoft-github-nightmare-eclipse-platform-power-security-research.md)
