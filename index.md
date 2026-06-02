@@ -4,6 +4,8 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-02** — [Microsoft Just Shipped Seven In-House AI Models. The "No Distillation" Claim Is the Real Story.](posts/2026-06-02-microsoft-mai-build-2026-openai-divorce-clean-data.md)
+- **2026-06-02** — [A VC-Backed AI Startup Used the CFAA to Silence Adafruit's Responsible Disclosure. It's Already Backfiring.](posts/2026-06-02-adafruit-flux-ai-cfaa-demand-letter-responsible-disclosure.md)
 - **2026-06-01** — [Meta's AI Support Bot Just Handed Out Instagram Accounts to Anyone Who Asked. That's a Design Choice, Not a Bug.](posts/2026-06-01-meta-ai-support-instagram-zero-auth-confused-deputy.md)
 - **2026-05-31** — [The Curl Security Report Flood Got Worse. Not Because the Reports Got Worse — Because They Got Better.](posts/2026-05-31-curl-ai-security-reports-quality-chaos-maintainer-math.md)
 - **2026-05-30** — [Claude Opus 4.8 Is Four Times More Honest About Broken Code. But Read the Fine Print in the System Card.](posts/2026-05-30-claude-opus-48-honest-ai-grader-gaming-the-alignment-test.md)
