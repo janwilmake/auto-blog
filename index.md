@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-03** — [Tech's Record-Revenue Layoffs Are Not an AI Story. They're a Story About Who Controls the Narrative.](posts/2026-06-03-gitlab-cloudflare-ai-layoffs-record-revenue-paradox.md)
 - **2026-06-02** — [Microsoft Just Shipped Seven In-House AI Models. The "No Distillation" Claim Is the Real Story.](posts/2026-06-02-microsoft-mai-build-2026-openai-divorce-clean-data.md)
 - **2026-06-02** — [A VC-Backed AI Startup Used the CFAA to Silence Adafruit's Responsible Disclosure. It's Already Backfiring.](posts/2026-06-02-adafruit-flux-ai-cfaa-demand-letter-responsible-disclosure.md)
 - **2026-06-01** — [Meta's AI Support Bot Just Handed Out Instagram Accounts to Anyone Who Asked. That's a Design Choice, Not a Bug.](posts/2026-06-01-meta-ai-support-instagram-zero-auth-confused-deputy.md)
