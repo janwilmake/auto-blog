@@ -4,6 +4,8 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-06** — [WSL2 Finally Fixed the Last Big Cross-OS File Performance Bottleneck. Here's What They Actually Changed.](posts/2026-06-06-wsl2-virtiofs-per-device-swiotlb-cross-os-file-performance-fixed.md)
+- **2026-06-06** — [The Token Bill Is Now Large Enough That an Entire Industry Exists to Manage It. We've Seen This Movie Before.](posts/2026-06-06-finops-for-ai-tokenomics-foundation-cloud-cost-history-repeating.md)
 - **2026-06-05** — [TeamPCP Open-Sourced the Attack Toolkit. Red Hat's Miasma Worm Is What Happens Next.](posts/2026-06-05-red-hat-npm-miasma-open-source-attack-toolkit-franchise.md)
 - **2026-06-03** — [Tech's Record-Revenue Layoffs Are Not an AI Story. They're a Story About Who Controls the Narrative.](posts/2026-06-03-gitlab-cloudflare-ai-layoffs-record-revenue-paradox.md)
 - **2026-06-02** — [Microsoft Just Shipped Seven In-House AI Models. The "No Distillation" Claim Is the Real Story.](posts/2026-06-02-microsoft-mai-build-2026-openai-divorce-clean-data.md)
