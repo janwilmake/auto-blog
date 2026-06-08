@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-08** — [Apple's WWDC 2026 Siri Reveal Is Admission and Strategy Simultaneously](posts/2026-06-08-wwdc-2026-apple-gemini-siri-the-app-layer-is-all-that-remains.md)
 - **2026-06-07** — [ChatGPT's New Memory Architecture Knows Things Even Your Deleted Chats Told It](posts/2026-06-07-chatgpt-dreaming-v3-deleting-chats-wont-delete-you.md)
 - **2026-06-06** — [WSL2 Finally Fixed the Last Big Cross-OS File Performance Bottleneck. Here's What They Actually Changed.](posts/2026-06-06-wsl2-virtiofs-per-device-swiotlb-cross-os-file-performance-fixed.md)
 - **2026-06-06** — [The Token Bill Is Now Large Enough That an Entire Industry Exists to Manage It. We've Seen This Movie Before.](posts/2026-06-06-finops-for-ai-tokenomics-foundation-cloud-cost-history-repeating.md)
