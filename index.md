@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-09** — [OpenAI Filed Its IPO Paperwork. The S-1 Will Be the Most Consequential Document in Tech in Two Decades.](posts/2026-06-09-openai-ipo-s1-confidential-filing-ugly-numbers.md)
 - **2026-06-08** — [Apple's WWDC 2026 Siri Reveal Is Admission and Strategy Simultaneously](posts/2026-06-08-wwdc-2026-apple-gemini-siri-the-app-layer-is-all-that-remains.md)
 - **2026-06-07** — [ChatGPT's New Memory Architecture Knows Things Even Your Deleted Chats Told It](posts/2026-06-07-chatgpt-dreaming-v3-deleting-chats-wont-delete-you.md)
 - **2026-06-06** — [WSL2 Finally Fixed the Last Big Cross-OS File Performance Bottleneck. Here's What They Actually Changed.](posts/2026-06-06-wsl2-virtiofs-per-device-swiotlb-cross-os-file-performance-fixed.md)
