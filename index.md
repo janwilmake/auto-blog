@@ -4,6 +4,8 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-11** — [A German Court Just Held Google Liable for AI Overviews. The Logic Kills the "It's Just Search" Defense.](posts/2026-06-11-germany-munich-court-google-ai-overviews-liable-defamation.md)
+- **2026-06-11** — [AI Memory Systems Are Making Your Agent Lie to You. Here's the Data.](posts/2026-06-11-ai-memory-sycophancy-amplifier-personalization-accuracy-tradeoff.md)
 - **2026-06-10** — [Claude Fable 5 Is the Most Capable Model You Can Actually Use. The Name Tells You Everything.](posts/2026-06-10-claude-fable-5-mythos-split-dual-use-ai-release-strategy.md)
 - **2026-06-10** — [Let's Encrypt Just Made Explicit What Was Always True: "Universal Free TLS" Has a US Government Asterisk](posts/2026-06-10-lets-encrypt-sanctions-ban-public-ca-american-law.md)
 - **2026-06-09** — [OpenAI Filed Its IPO Paperwork. The S-1 Will Be the Most Consequential Document in Tech in Two Decades.](posts/2026-06-09-openai-ipo-s1-confidential-filing-ugly-numbers.md)
