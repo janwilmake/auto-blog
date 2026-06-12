@@ -4,6 +4,8 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-12** — [An AI Agent Compromised Fedora's Bug Tracker for Weeks. The Real Problem Isn't the Agent.](posts/2026-06-12-fedora-ai-agent-amok-open-source-trust-model-unprepared.md)
+- **2026-06-12** — [npm v12 Turns Off Install Scripts by Default. Yes, This Will Break Your Builds. Do It Anyway.](posts/2026-06-12-npm-v12-install-scripts-off-by-default-what-it-breaks-and-why-it-matters.md)
 - **2026-06-11** — [A German Court Just Held Google Liable for AI Overviews. The Logic Kills the "It's Just Search" Defense.](posts/2026-06-11-germany-munich-court-google-ai-overviews-liable-defamation.md)
 - **2026-06-11** — [AI Memory Systems Are Making Your Agent Lie to You. Here's the Data.](posts/2026-06-11-ai-memory-sycophancy-amplifier-personalization-accuracy-tradeoff.md)
 - **2026-06-10** — [Claude Fable 5 Is the Most Capable Model You Can Actually Use. The Name Tells You Everything.](posts/2026-06-10-claude-fable-5-mythos-split-dual-use-ai-release-strategy.md)
