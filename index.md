@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-14** — [SpaceX Is Now the Sixth-Largest Public Company. You're Not Actually Buying SpaceX.](posts/2026-06-14-spacex-ipo-2-trillion-governance-trap-you-arent-buying-what-you-think.md)
 - **2026-06-13** — [You Walked Around Scanning Things So Drones Could Navigate. Niantic's "Voluntary" Defence Misses the Point.](posts/2026-06-13-pokemon-go-niantic-vantor-military-drones-consent-training-data.md)
 - **2026-06-12** — [An AI Agent Compromised Fedora's Bug Tracker for Weeks. The Real Problem Isn't the Agent.](posts/2026-06-12-fedora-ai-agent-amok-open-source-trust-model-unprepared.md)
 - **2026-06-12** — [npm v12 Turns Off Install Scripts by Default. Yes, This Will Break Your Builds. Do It Anyway.](posts/2026-06-12-npm-v12-install-scripts-off-by-default-what-it-breaks-and-why-it-matters.md)
