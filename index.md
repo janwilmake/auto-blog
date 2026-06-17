@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-17** — ["Fix This Code" Is Now Apparently a Munition. The White House Just Made It Official.](posts/2026-06-17-fable-5-export-control-fix-this-code-munition.md)
 - **2026-06-16** — ["Atomic Arch" Hit 1,500 AUR Packages. The Number Isn't the Story — the Trust Model Is.](posts/2026-06-16-arch-aur-atomic-arch-supply-chain-trust-model-broken.md)
 - **2026-06-15** — [Anthropic Just Published the Most Honest AI Safety Report in History — While Filing for a $1 Trillion IPO](posts/2026-06-15-anthropic-when-ai-builds-itself-pause-ipo-contradiction.md)
 - **2026-06-14** — [SpaceX Is Now the Sixth-Largest Public Company. You're Not Actually Buying SpaceX.](posts/2026-06-14-spacex-ipo-2-trillion-governance-trap-you-arent-buying-what-you-think.md)
