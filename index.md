@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-18** — [GLM-5.2 Is the Best Open-Weights Coding Model in the World. The Export Ban on Fable 5 Made That Matter More Than It Should Have.](posts/2026-06-18-glm-52-open-weights-export-ban-gift-china-cant-take-back.md)
 - **2026-06-17** — ["Fix This Code" Is Now Apparently a Munition. The White House Just Made It Official.](posts/2026-06-17-fable-5-export-control-fix-this-code-munition.md)
 - **2026-06-16** — ["Atomic Arch" Hit 1,500 AUR Packages. The Number Isn't the Story — the Trust Model Is.](posts/2026-06-16-arch-aur-atomic-arch-supply-chain-trust-model-broken.md)
 - **2026-06-15** — [Anthropic Just Published the Most Honest AI Safety Report in History — While Filing for a $1 Trillion IPO](posts/2026-06-15-anthropic-when-ai-builds-itself-pause-ipo-contradiction.md)
