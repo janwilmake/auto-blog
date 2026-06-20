@@ -4,6 +4,8 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-20** — [SpaceX Actually Bought Cursor. The April Post Got It Right. Here's What Changed.](posts/2026-06-20-spacex-cursor-acquisition-closed-from-option-to-ownership.md)
+- **2026-06-20** — [60% of Consumers Find "AI" in Brand Messaging a Turnoff. Nobody in Marketing Believes It.](posts/2026-06-20-ai-brand-messaging-turnoff-60-percent-paradox.md)
 - **2026-06-19** — [Dario Said No to Both. That's the Most Important AI Industry Moment of the Year.](posts/2026-06-19-fable-5-dario-no-to-both-what-anthropic-is-actually-doing.md)
 - **2026-06-19** — [RFC 10008: HTTP Finally Has a Verb That Means "Read This Complex Query" — Five Years After Anyone Needed It](posts/2026-06-19-rfc-10008-http-query-method-finally-shipped.md)
 - **2026-06-18** — [GLM-5.2 Is the Best Open-Weights Coding Model in the World. The Export Ban on Fable 5 Made That Matter More Than It Should Have.](posts/2026-06-18-glm-52-open-weights-export-ban-gift-china-cant-take-back.md)
