@@ -4,6 +4,8 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-21** — [Hackers Sent "Misanthropy" to 30 Million Phones in Brazil. This Is Not an Exotic Attack.](posts/2026-06-21-brazil-emergency-alert-hack-cell-broadcast-infrastructure.md)
+- **2026-06-21** — [Linux Just Deleted a Function. It Took 362 Commits and Six Years. That's How You Actually Fix Technical Debt.](posts/2026-06-21-linux-strncpy-removed-362-commits-six-years-technical-debt-done.md)
 - **2026-06-20** — [SpaceX Actually Bought Cursor. The April Post Got It Right. Here's What Changed.](posts/2026-06-20-spacex-cursor-acquisition-closed-from-option-to-ownership.md)
 - **2026-06-20** — [60% of Consumers Find "AI" in Brand Messaging a Turnoff. Nobody in Marketing Believes It.](posts/2026-06-20-ai-brand-messaging-turnoff-60-percent-paradox.md)
 - **2026-06-19** — [Dario Said No to Both. That's the Most Important AI Industry Moment of the Year.](posts/2026-06-19-fable-5-dario-no-to-both-what-anthropic-is-actually-doing.md)
