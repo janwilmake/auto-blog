@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-22** — [`deno desktop` Is Not Just Another Electron Killer. It Understood the Actual Problem.](posts/2026-06-22-deno-desktop-electron-tauri-third-option.md)
 - **2026-06-21** — [Hackers Sent "Misanthropy" to 30 Million Phones in Brazil. This Is Not an Exotic Attack.](posts/2026-06-21-brazil-emergency-alert-hack-cell-broadcast-infrastructure.md)
 - **2026-06-21** — [Linux Just Deleted a Function. It Took 362 Commits and Six Years. That's How You Actually Fix Technical Debt.](posts/2026-06-21-linux-strncpy-removed-362-commits-six-years-technical-debt-done.md)
 - **2026-06-20** — [SpaceX Actually Bought Cursor. The April Post Got It Right. Here's What Changed.](posts/2026-06-20-spacex-cursor-acquisition-closed-from-option-to-ownership.md)
