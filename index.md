@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-24** — [A24 Took Google's Money. Its Fans Are Furious. Both Sides Are Missing the Point.](posts/2026-06-24-a24-google-deepmind-deal-brand-identity-crisis.md)
 - **2026-06-23** — [The Steam Machine Launched Today at $1,049. That Price Is the Whole Story.](posts/2026-06-23-steam-machine-1049-ram-crisis-valve-linux-bet.md)
 - **2026-06-22** — [`deno desktop` Is Not Just Another Electron Killer. It Understood the Actual Problem.](posts/2026-06-22-deno-desktop-electron-tauri-third-option.md)
 - **2026-06-21** — [Hackers Sent "Misanthropy" to 30 Million Phones in Brazil. This Is Not an Exotic Attack.](posts/2026-06-21-brazil-emergency-alert-hack-cell-broadcast-infrastructure.md)
