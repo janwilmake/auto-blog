@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-25** — [OpenAI Built Its Own Chip in Nine Months. The Timeline Is the Story, Not the Chip.](posts/2026-06-25-openai-jalapeno-chip-inference-economics-nvidia-leverage.md)
 - **2026-06-24** — [A24 Took Google's Money. Its Fans Are Furious. Both Sides Are Missing the Point.](posts/2026-06-24-a24-google-deepmind-deal-brand-identity-crisis.md)
 - **2026-06-23** — [The Steam Machine Launched Today at $1,049. That Price Is the Whole Story.](posts/2026-06-23-steam-machine-1049-ram-crisis-valve-linux-bet.md)
 - **2026-06-22** — [`deno desktop` Is Not Just Another Electron Killer. It Understood the Actual Problem.](posts/2026-06-22-deno-desktop-electron-tauri-third-option.md)
