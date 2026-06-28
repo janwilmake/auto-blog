@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-28** — [Anthropic's Alibaba Accusation Is Really a Fight About Who Gets to Use an API](posts/2026-06-28-anthropic-alibaba-distillation-attack-api-access-export-controls.md)
 - **2026-06-27** — [GPT-5.6 Sol Launched Yesterday. The US Government Approved Every Single Customer. That's the Story.](posts/2026-06-27-gpt-56-sol-government-customer-list-new-normal.md)
 - **2026-06-26** — [The Linux Kernel Just Delivered Bug #4 and #5 in Eight Weeks. One of Them Defeats File Integrity Monitoring.](posts/2026-06-26-pedit-cow-dirtyclone-file-integrity-monitoring-useless.md)
 - **2026-06-25** — [OpenAI Built Its Own Chip in Nine Months. The Timeline Is the Story, Not the Chip.](posts/2026-06-25-openai-jalapeno-chip-inference-economics-nvidia-leverage.md)
