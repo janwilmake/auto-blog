@@ -4,6 +4,8 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-29** — [Rocket Lab Buys Iridium for $8B. Peter Beck Is Building the Anti-SpaceX.](posts/2026-06-29-rocket-lab-iridium-peter-beck-builds-the-anti-spacex.md)
+- **2026-06-29** — [HackerRank Open-Sourced Its AI Hiring Tool and Accidentally Proved the Whole Category Is Broken](posts/2026-06-29-hackerrank-ats-llm-nondeterminism-hiring-luck-filter.md)
 - **2026-06-28** — [Anthropic's Alibaba Accusation Is Really a Fight About Who Gets to Use an API](posts/2026-06-28-anthropic-alibaba-distillation-attack-api-access-export-controls.md)
 - **2026-06-27** — [GPT-5.6 Sol Launched Yesterday. The US Government Approved Every Single Customer. That's the Story.](posts/2026-06-27-gpt-56-sol-government-customer-list-new-normal.md)
 - **2026-06-26** — [The Linux Kernel Just Delivered Bug #4 and #5 in Eight Weeks. One of Them Defeats File Integrity Monitoring.](posts/2026-06-26-pedit-cow-dirtyclone-file-integrity-monitoring-useless.md)
