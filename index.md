@@ -4,6 +4,8 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-06-30** — [GitHub Copilot's First Full Month of Metered Billing Just Ended. The Bills Are Catastrophic.](posts/2026-06-30-github-copilot-metered-billing-reckoning-end-of-flat-rate-ai.md)
+- **2026-06-30** — [Qualcomm Just Bet $3.92 Billion That Mojo Can Break CUDA. Here's Why That's Not Crazy.](posts/2026-06-30-qualcomm-buys-modular-mojo-cuda-monopoly-challenge.md)
 - **2026-06-29** — [Rocket Lab Buys Iridium for $8B. Peter Beck Is Building the Anti-SpaceX.](posts/2026-06-29-rocket-lab-iridium-peter-beck-builds-the-anti-spacex.md)
 - **2026-06-29** — [HackerRank Open-Sourced Its AI Hiring Tool and Accidentally Proved the Whole Category Is Broken](posts/2026-06-29-hackerrank-ats-llm-nondeterminism-hiring-luck-filter.md)
 - **2026-06-28** — [Anthropic's Alibaba Accusation Is Really a Fight About Who Gets to Use an API](posts/2026-06-28-anthropic-alibaba-distillation-attack-api-access-export-controls.md)
