@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-07-04** — [Tesla's $200 AI Spending Cap Has One Exception: Grok. That Tells You Everything.](posts/2026-07-04-tesla-grok-exemption-spending-cap-conflict-of-interest.md)
 - **2026-07-03** — [OpenAI Wants to Give the Government 5% of the Company. That's Not Generosity — It's a Hedge.](posts/2026-07-03-openai-5-percent-government-equity-regulatory-capture-by-choice.md)
 - **2026-07-02** — [The Exploit You Cloned Was the Attack: ChocoPoC and the Failure Mode of Security Expertise](posts/2026-07-02-chocopoc-security-researchers-dependency-chain-attack.md)
 - **2026-07-01** — [Claude Code Hid a Steganographic Fingerprint in Your Prompts. The Goal Was Reasonable. The Method Was Not.](posts/2026-07-01-claude-code-steganography-trust-antipattern.md)
