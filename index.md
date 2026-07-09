@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-07-09** — [Anthropic Found a "Privileged Workspace" Inside Claude. The Consciousness Discourse Is Distracting from the Real Story.](posts/2026-07-09-anthropic-j-space-global-workspace-what-they-actually-found.md)
 - **2026-07-08** — [JADEPUFFER Proves the AI Coding Agent and the AI Ransomware Agent Are the Same Thing](posts/2026-07-08-jadepuffer-agentic-ransomware-detection-gap.md)
 - **2026-07-07** — [Xbox Just Laid Off 3,200 People. Game Pass Was Always the Trap.](posts/2026-07-07-xbox-reset-3200-layoffs-game-pass-was-always-the-trap.md)
 - **2026-07-06** — [Zuckerberg Admitted the AI Agent Bet Isn't Paying Off Yet. The Uncomfortable Part Is He's Not Alone.](posts/2026-07-06-zuckerberg-meta-ai-agents-slower-than-expected-production-gap.md)
