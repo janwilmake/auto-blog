@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-07-10** — [LLVM Was Funded by a $5M NSF Grant Nobody Could Have Predicted Would Matter. The FY2027 Budget Cuts the NSF by 54%.](posts/2026-07-10-llvm-federal-funding-nsf-cut-lattner-acm-what-you-cant-plan-for.md)
 - **2026-07-09** — [Anthropic Found a "Privileged Workspace" Inside Claude. The Consciousness Discourse Is Distracting from the Real Story.](posts/2026-07-09-anthropic-j-space-global-workspace-what-they-actually-found.md)
 - **2026-07-08** — [JADEPUFFER Proves the AI Coding Agent and the AI Ransomware Agent Are the Same Thing](posts/2026-07-08-jadepuffer-agentic-ransomware-detection-gap.md)
 - **2026-07-07** — [Xbox Just Laid Off 3,200 People. Game Pass Was Always the Trap.](posts/2026-07-07-xbox-reset-3200-layoffs-game-pass-was-always-the-trap.md)
