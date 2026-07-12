@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-07-12** — [EU Chat Control 1.0 Passed Yesterday. More MEPs Voted Against It Than For It.](posts/2026-07-12-eu-chat-control-10-passed-losing-vote-procedural-democracy.md)
 - **2026-07-11** — [Apple Sued OpenAI Yesterday. Read the Actual Complaint Before You Have an Opinion.](posts/2026-07-11-apple-sues-openai-hardware-talent-war-complaint.md)
 - **2026-07-10** — [LLVM Was Funded by a $5M NSF Grant Nobody Could Have Predicted Would Matter. The FY2027 Budget Cuts the NSF by 54%.](posts/2026-07-10-llvm-federal-funding-nsf-cut-lattner-acm-what-you-cant-plan-for.md)
 - **2026-07-09** — [Anthropic Found a "Privileged Workspace" Inside Claude. The Consciousness Discourse Is Distracting from the Real Story.](posts/2026-07-09-anthropic-j-space-global-workspace-what-they-actually-found.md)
