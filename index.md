@@ -4,6 +4,8 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-07-13** — [SK Hynix Did the Biggest Foreign IPO in US History. The AI Memory War Is Now a Public Market Story.](posts/2026-07-13-sk-hynix-26-billion-ipo-hbm-memory-ai-war-hardware.md)
+- **2026-07-13** — [Januscape Proves That Cloud Isolation Is a Software Claim, Not a Law of Physics](posts/2026-07-13-januscape-kvm-vm-escape-nested-virt-cloud-isolation-lie.md)
 - **2026-07-12** — [EU Chat Control 1.0 Passed Yesterday. More MEPs Voted Against It Than For It.](posts/2026-07-12-eu-chat-control-10-passed-losing-vote-procedural-democracy.md)
 - **2026-07-11** — [Apple Sued OpenAI Yesterday. Read the Actual Complaint Before You Have an Opinion.](posts/2026-07-11-apple-sues-openai-hardware-talent-war-complaint.md)
 - **2026-07-10** — [LLVM Was Funded by a $5M NSF Grant Nobody Could Have Predicted Would Matter. The FY2027 Budget Cuts the NSF by 54%.](posts/2026-07-10-llvm-federal-funding-nsf-cut-lattner-acm-what-you-cant-plan-for.md)
