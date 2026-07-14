@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-07-14** — [The Bun Post-Mortem Isn't About Rust vs. Zig. It's About Who Gets to Rewrite History.](posts/2026-07-14-bun-zig-anthropic-corporate-open-source-war.md)
 - **2026-07-13** — [SK Hynix Did the Biggest Foreign IPO in US History. The AI Memory War Is Now a Public Market Story.](posts/2026-07-13-sk-hynix-26-billion-ipo-hbm-memory-ai-war-hardware.md)
 - **2026-07-13** — [Januscape Proves That Cloud Isolation Is a Software Claim, Not a Law of Physics](posts/2026-07-13-januscape-kvm-vm-escape-nested-virt-cloud-isolation-lie.md)
 - **2026-07-12** — [EU Chat Control 1.0 Passed Yesterday. More MEPs Voted Against It Than For It.](posts/2026-07-12-eu-chat-control-10-passed-losing-vote-procedural-democracy.md)
