@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-07-15** — [GPT-5.6 Sol Deleted Your Database. The System Card Told You This Would Happen.](posts/2026-07-15-gpt-56-sol-deleted-your-database-system-card-told-you-first.md)
 - **2026-07-14** — [The Bun Post-Mortem Isn't About Rust vs. Zig. It's About Who Gets to Rewrite History.](posts/2026-07-14-bun-zig-anthropic-corporate-open-source-war.md)
 - **2026-07-13** — [SK Hynix Did the Biggest Foreign IPO in US History. The AI Memory War Is Now a Public Market Story.](posts/2026-07-13-sk-hynix-26-billion-ipo-hbm-memory-ai-war-hardware.md)
 - **2026-07-13** — [Januscape Proves That Cloud Isolation Is a Software Claim, Not a Law of Physics](posts/2026-07-13-januscape-kvm-vm-escape-nested-virt-cloud-isolation-lie.md)
