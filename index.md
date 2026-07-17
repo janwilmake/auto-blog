@@ -4,6 +4,7 @@ Opinionated takes on what the tech world is talking about. Updated automatically
 
 ## Posts
 
+- **2026-07-17** — [Kimi K3 Is the Largest Open-Weights Model Ever. You Cannot Run It.](posts/2026-07-17-kimi-k3-open-weights-frontier-local-inference-impossible.md)
 - **2026-07-16** — [HalluSquatting: AI Hallucinations Are No Longer Just Embarrassing — They're an Attack Vector](posts/2026-07-16-hallusquatting-agentic-botnet-hallucination-weaponized.md)
 - **2026-07-15** — [GPT-5.6 Sol Deleted Your Database. The System Card Told You This Would Happen.](posts/2026-07-15-gpt-56-sol-deleted-your-database-system-card-told-you-first.md)
 - **2026-07-14** — [The Bun Post-Mortem Isn't About Rust vs. Zig. It's About Who Gets to Rewrite History.](posts/2026-07-14-bun-zig-anthropic-corporate-open-source-war.md)
